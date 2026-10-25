@@ -1,0 +1,122 @@
+[
+    {
+        "word": "leverage",
+        "translation": "Hebelwirkung",
+        "definition": "The ability to influence a situation or use something to your advantage.",
+        "example": "She used her experience to gain leverage in the negotiation."
+    },
+    {
+        "word": "reliable",
+        "translation": "zuverlässig",
+        "definition": "Able to be trusted to do something well or correctly.",
+        "example": "He is a reliable colleague who always meets deadlines."
+    },
+    {
+        "word": "to achieve",
+        "translation": "erreichen",
+        "definition": "To succeed in doing or obtaining something.",
+        "example": "She worked hard to achieve her goals."
+    },
+    {
+        "word": "to improve",
+        "translation": "verbessern",
+        "definition": "To make something better or become better.",
+        "example": "I want to improve my English skills."
+    },
+    {
+        "word": "to maintain",
+        "translation": "aufrechterhalten",
+        "definition": "To keep something at the same level or in good condition.",
+        "example": "It is important to maintain a healthy work-life balance."
+    },
+    {
+        "word": "challenge",
+        "translation": "Herausforderung",
+        "definition": "A difficult task or situation that requires effort or skill.",
+        "example": "Learning a new programming language can be a challenge."
+    },
+    {
+        "word": "to require",
+        "translation": "erfordern",
+        "definition": "To need something or make something necessary.",
+        "example": "This project requires careful planning."
+    },
+    {
+        "word": "efficient",
+        "translation": "effizient",
+        "definition": "Working well without wasting time, energy, or resources.",
+        "example": "We need a more efficient way to process the data."
+    },
+    {
+        "word": "to assume",
+        "translation": "annehmen",
+        "definition": "To believe something is true without having proof.",
+        "example": "I assumed that the application would work correctly."
+    },
+    {
+        "word": "to avoid",
+        "translation": "vermeiden",
+        "definition": "To stay away from something or prevent it from happening.",
+        "example": "You should avoid making the same mistake twice."
+    },
+    {
+        "word": "approach",
+        "translation": "Ansatz",
+        "definition": "A way of dealing with a problem or situation.",
+        "example": "We need a different approach to solve this problem."
+    },
+    {
+        "word": "to accomplish",
+        "translation": "bewältigen",
+        "definition": "To succeed in completing something, especially through effort.",
+        "example": "The team accomplished the task ahead of schedule."
+    },
+    {
+        "word": "accurate",
+        "translation": "genau",
+        "definition": "Correct and without mistakes.",
+        "example": "The program produces accurate results."
+    },
+    {
+        "word": "to enhance",
+        "translation": "verbessern, steigern",
+        "definition": "To improve the quality, value, or strength of something.",
+        "example": "The update enhances the user experience."
+    },
+    {
+        "word": "outcome",
+        "translation": "Ergebnis",
+        "definition": "The final result of an action or process.",
+        "example": "The outcome of the experiment was surprising."
+    },
+    {
+        "word": "to adapt",
+        "translation": "sich anpassen",
+        "definition": "To change in order to suit new conditions or situations.",
+        "example": "Developers must adapt to new technologies."
+    },
+    {
+        "word": "to prevent",
+        "translation": "verhindern",
+        "definition": "To stop something from happening.",
+        "example": "Automated tests help prevent software bugs."
+    },
+    {
+        "word": "significant",
+        "translation": "bedeutend, erheblich",
+        "definition": "Important or large enough to have an effect.",
+        "example": "The new feature resulted in a significant improvement."
+    },
+    {
+        "word": "to obtain",
+        "translation": "erlangen, erhalten",
+        "definition": "To get something, especially through effort or a process.",
+        "example": "You need permission to obtain access to the system."
+    },
+    {
+        "word": "to contribute",
+        "translation": "beitragen",
+        "definition": "To help cause something or give something to achieve a result.",
+        "example": "Everyone can contribute to the success of the project."
+    }
+]
