@@ -17,14 +17,14 @@ struct ProgressViewCard: View {
 
     var body: some View {
         VStack(alignment: .leading, spacing: 8) {
-            Text("Lernfortschritt")
+            Text("Progress")
                 .font(.headline)
 
             ProgressView(value: progress)
                 .tint(.green)
 
             HStack {
-                Text("\(knownWords) von \(totalWords) Wörtern")
+                Text("\(knownWords) out of \(totalWords) words")
                 Spacer()
                 Text("\(Int(progress * 100)) %")
             }
