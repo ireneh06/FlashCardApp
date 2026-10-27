@@ -28,7 +28,7 @@ struct MainTabView: View {
                 
                 SettingsView(flashcards: $flashcards)
                     .tabItem {
-                        Label("Settings", systemImage: "gear")
+                        Label("Progress", systemImage: "medal.star")
                     }
         }
     }

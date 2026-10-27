@@ -1,5 +1,5 @@
 //
-//  Words.swift
+//  WordListView.swift
 //  FlashCardApp
 //
 //  Created by Irene Hofer on 22.10.26.
@@ -11,16 +11,20 @@ struct WordListView: View {
     
     var body: some View {
         NavigationStack {
-            List(flashcards.indices, id: \.self) { i in
-                
-                NavigationLink(value: flashcards[i].id) {
-                    Text(flashcards[i].word)
+            
+            List(flashcards) { card in
+                NavigationLink(value: card.id) {
+                    Text(card.word)
                 }
             }
             .navigationTitle("Words")
             .navigationDestination(for: UUID.self) { id in
                 WordDetailView(id: id, flashcards: $flashcards)
             }
+            
+            
+            //List(flashcards.indices, id: \.self) { i in //is unstable when index change
+          
         }
     }
 }

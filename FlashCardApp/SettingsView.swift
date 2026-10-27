@@ -14,12 +14,16 @@ struct SettingsView : View {
     var body: some View {
         VStack{
             Text("Overview")
+                .frame(maxWidth: .infinity, alignment: .leading)
+                .font(.largeTitle)
             let knownWords = flashcards.filter {
                 $0.isKnown
             }.count
 
             let totalWords = flashcards.count
             ProgressViewCard(knownWords: knownWords, totalWords: totalWords)
+                .padding(10)
+            Spacer()
         }
         .padding(20)
     }
